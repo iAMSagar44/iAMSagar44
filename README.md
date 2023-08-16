@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sagar
 - 👀 I’m interested in Sofware development and architecture, coding, and learning new technologies.
-- 💻 I’m currently working on full stack development projects using Springboot and React.
+- 💻 I’m currently working on full stack development projects using Springboot and React and building cloud native applications.
 - 👨🏻‍💻 I’m looking to collaborate on full stack development, specializing in Springboot and React technologies.
 
 <!---
